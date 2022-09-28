@@ -1,0 +1,15 @@
+package intro;
+
+public class main {
+
+	public static void main(String[] args) {
+		System.out.println("hello word!");
+	
+		// değişken isimlendirmeleri java'da camelCase yazılır
+		String ortaMetin ="ilginizi çekebilir";
+		String altMetin ="vade süresi";
+		System.out.println("ortaMetin");
+	}
+	
+
+}
